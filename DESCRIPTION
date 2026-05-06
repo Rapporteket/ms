@@ -32,7 +32,6 @@ Imports:
     knitr,
     rapbase,
     rlang,
-    rpivotTable,
     shiny,
     shinyalert
 Remotes:
